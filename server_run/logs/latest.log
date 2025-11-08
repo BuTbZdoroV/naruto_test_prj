@@ -1,0 +1,14 @@
+[12:07:37] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:07:44] [Server thread/INFO]: Loading properties
+[12:07:44] [Server thread/INFO]: Default game type: CREATIVE
+[12:07:44] [Server thread/INFO]: Generating keypair
+[12:07:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:07:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:07:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:07:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:07:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:07:45] [Server thread/INFO]: Preparing level "world"
+[12:07:45] [Server thread/INFO]: Preparing start region for level 0
+[12:07:46] [Server thread/INFO]: Done (1,110s)! For help, type "help" or "?"
+[12:08:11] [Server thread/INFO]: BuTbZdoroV[/127.0.0.1:49584] logged in with entity id 284 at (-83.70228292024694, 80.18770368434797, 237.2622449584947)
+[12:08:11] [Server thread/INFO]: BuTbZdoroV joined the game
