@@ -34,7 +34,7 @@ class AtomicItem(
         player: EntityPlayer
     ): ItemStack {
         if (!world.isRemote) {
-            val cylinder = EntityAtomicCylinder(world, player) // Теперь player не nullable
+            val cylinder = EntityAtomicCylinder(world, player)
             world.spawnEntityInWorld(cylinder)
         }
         return stack
